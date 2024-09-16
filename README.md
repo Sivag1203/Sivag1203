@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/sivaganesh-natarajavel-567a56237">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://leetcode.com/your_leetcode_username](https://leetcode.com/u/Siva_gan/">
+  <a href="https://leetcode.com/u/Siva_gan/">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Badge"/>
   </a>
 </div>
