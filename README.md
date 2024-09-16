@@ -11,12 +11,10 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=Sivag1203&style=flat-square&color=blue" alt=""/>
 <h1>
-  Hey there Welcome to My Repo!!!
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm4yOGlreXJvZmVoZDZ2b2dxaTE1eThndXJqNzF0enV2OXR5YmE0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/765ccrAiB0g9z6EApL/giphy.gif" width="30px"/>
-  
+  Hey there Welcome to My Repo!!! 👋  
 </h1>
 <div align="center">
-  <img src="https://media1.tenor.com/m/WkgpyPpxpDUAAAAC/work-internet.gif" width="600" height="300"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm4yOGlreXJvZmVoZDZ2b2dxaTE1eThndXJqNzF0enV2OXR5YmE0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/765ccrAiB0g9z6EApL/giphy.gif" width="600" height="300"/>
 </div>
 
 About Me :
